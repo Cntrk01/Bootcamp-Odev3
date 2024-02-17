@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Salata</string>
+    <string name="detail">Detay</string>
+    <string name="gemischter_salat">Karışık Salata</string>
+    <string name="salat_description">Karışık salata, aynı zamanda karışık salata olarak da bilinir, çeşitli taze sebzelerin ve diğer malzemelerin karıştırılmasından oluşan bir yemektir. Tipik olarak marul veya ıspanak gibi yapraklı yeşilliklerin yanı sıra domates, salatalık, havuç ve diğer renkli sebzelerin bir kombinasyonunu içerir. Bazı çeşitler, ilave lezzet ve doku için meyveler, kuruyemişler veya peynir de içerebilir.</string>
+</resources>

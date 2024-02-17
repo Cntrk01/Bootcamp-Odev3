@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="renk1">#3F51B5</color>
+    <color name="renk2">#989BAB</color>
+    <color name="renk3">#FF000000</color>
+</resources>
